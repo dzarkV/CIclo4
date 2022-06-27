@@ -4,10 +4,10 @@ Web project for MisiónTIC cycle 4
 
 # Overview
 
-This code is an API micro-services implementation. This works a blended systems integrated by an API Gateway as follow:
+This code is an API micro-services implementation. This is a blended system integrated by an API Gateway as follow:
 - An API REST for invoices made with Spring Boot
 - An API REST for user authentication made with Django
-- An API Gateway for integrate the two previous micro-services APIs made with GraphQL
+- An API Gateway made with GraphQL to integrate the two previous micro-services APIs
 
 Each repository's branch is a component.
 
@@ -20,7 +20,7 @@ The components developed were as follows:
 <img src="https://github.com/dzarkV/Ciclo4/blob/main/Arquitectura_C4.png" width=50% height=50%>
 <!--- ![Arquitecture representation](https://github.com/dzarkV/Ciclo4/blob/main/Arquitectura_C4.png?raw=true) -->
 
-Was a require the languages diversity with SQL and NoSQL data bases and the Docker handle for each micro-service.
+Programming languages diversity was a require with SQL and NoSQL databases and the Docker handle for each micro-service.
 
 # User stories
 
